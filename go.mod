@@ -4,6 +4,7 @@ go 1.20
 
 require (
 	github.com/gin-gonic/gin v1.9.1
+	github.com/mrceyhun/go-url-shortener v0.0.0-20230604230826-0f2f85066477
 	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.5.0
 	github.com/swaggo/swag v1.16.1
@@ -45,10 +46,10 @@ require (
 	github.com/xdg-go/stringprep v1.0.3 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/crypto v0.9.0 // indirect
-	golang.org/x/net v0.10.0 // indirect
-	golang.org/x/sys v0.8.0 // indirect
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.9.3 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
