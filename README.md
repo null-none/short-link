@@ -1,5 +1,5 @@
 
-# Shortener
+# Short link
 
 Shorten long urls and keep hash:url key-value maps in MongoDB.
 
