@@ -1,4 +1,4 @@
-module github.com/go-url-shortener/short-link
+module github.com/null-none/url-shortener
 
 go 1.20
 
