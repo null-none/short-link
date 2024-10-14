@@ -22,7 +22,3 @@ curl -X POST localhost/api/v1/short-url -d '{"Url": "https://test.com/very-long-
 
 curl -X GET localhost/api/v1/short-url/c647adf52c439e35daf186bc2a516966
 ```
-
-Or SwaggerUI:
-
-http://localhost/swagger/index.html#/
