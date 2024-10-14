@@ -10,7 +10,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
-	"github.com/mrceyhun/go-url-shortener/model"
+	"github.com/null-none/go-url-shortener/model"
 )
 
 // DbClient DB client interface
